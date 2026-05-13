@@ -11,7 +11,7 @@
 > - [`source-material.md`](./source-material.md) — data tables, frameworks, and quant references behind the persona
 > - [`landscape.md`](./landscape.md) — long-form synthesis of the eight primary sources
 >
-> ** Please Star So Others Can Find It **
+> _If helpful, consider adding a star so others can find it_
 
 ---
 
