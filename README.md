@@ -2,9 +2,8 @@
 
 > **Updated quarterly.** This document is a living portrait of the consensus Tier-1 VC mind — synthesised from 20VC, YC W26, Sequoia, a16z, Index, FT, and X content from Nov 2025 – May 2026. It is designed to be consumed three ways:
 >
-> - 📄 **Download as PDF** → [`investor_persona.pdf`](./investor_persona.pdf)
-> - 📝 **Download as Markdown** → [`README.md`](./README.md) (this file — raw)
-> - 🤖 **Used by agents** — the markdown is structured for retrieval, citation, and embedding into agentic pitch-prep, deal-screen, and memo-drafting workflows.
+> - 📄 **Download as [PDF](./investor_persona.pdf) or [Markdown](./README.md)** and used as context for chat e.g. Claude Projects.
+> - 🤖 **Crawled by agents** — the markdown is structured for retrieval, citation, and embedding into agentic pitch-prep, deal-screen, and memo-drafting workflows.
 >
 > Next refresh: end of Q3 2026.
 
