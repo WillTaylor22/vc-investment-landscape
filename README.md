@@ -7,9 +7,11 @@
 >
 > Next refresh: end of Q3 2026.
 
-**Companion documents** (deeper source material the persona is built from):
-- [`source-material.md`](./source-material.md) — data tables, frameworks, and quant references behind the persona
-- [`landscape.md`](./landscape.md) — long-form synthesis of the eight primary sources
+> **Companion documents** (deeper source material the persona is built from):
+> - [`source-material.md`](./source-material.md) — data tables, frameworks, and quant references behind the persona
+> - [`landscape.md`](./landscape.md) — long-form synthesis of the eight primary sources
+>
+> ** Please Star So Others Can Find It **
 
 ---
 
